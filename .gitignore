@@ -1,0 +1,9 @@
+workshop.code-workspace
+*/*.sln
+*/*.vcxproj
+*/*.vcxproj.filters
+*/*.vcxproj.user
+*/Debug/*
+*/.vs
+
+
